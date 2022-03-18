@@ -9,7 +9,7 @@
 - Git, GitHub
 
 
-#### About "Portfolio"
+### About "Portfolio"
 
 Currently it has a home page only. It's the mobile version. This portfolio will develop gradually with my microverse journey. All of my coding works and experiences will be stored here. Stay tuned!!!
 
@@ -26,9 +26,13 @@ Currently it has a home page only. It's the mobile version. This portfolio will 
 - node.js
 - npm
 
-### Framework and Package manager
+### Designing tool
 
-Figma
+- Figma
+
+### IDE
+
+- Visual Studio Code
 
 ### Linter configuration
 
